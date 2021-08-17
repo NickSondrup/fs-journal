@@ -3,7 +3,7 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-change directory
+change directory 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?

@@ -19,4 +19,4 @@ One problem you could run in to is the !important tag can override styles you wa
 
 **HTML/CSS Challenge:**
 
- https://nicksondrup.github.io/html-css-challenge/
+ https://nicksondrup.github.io/html-css-challenge/ 

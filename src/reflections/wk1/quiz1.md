@@ -38,7 +38,7 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector, property, and value. 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?

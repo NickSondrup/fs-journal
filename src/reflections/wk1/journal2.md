@@ -17,6 +17,6 @@ Specificity determines what styles can over ride others. The higher the specific
 
 One problem you could run in to is the !important tag can override styles you wanted. Also if you use it too often the !important tag to often it can render a large section of your style sheet useless. 
 
-**HTML/CSS Challenge:**
+**Daily Challenge: HTML/CSS Challenge:**
 
  https://nicksondrup.github.io/html-css-challenge/ 

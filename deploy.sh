@@ -17,6 +17,6 @@ cd src/.vuepress/dist
 git init 
 git add .
 git checkout -b gh-pages
-git remote add origin https://github.com/NickSondrup/fs-journal.git
+git remote add origin https://github.com/nicksondrup/fs-journal.git
 git commit -m 'deploy'
 git push --set-upstream -f origin gh-pages

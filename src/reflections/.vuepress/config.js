@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
-const GITHUB_USERNAME = 'NickSondrup'
+const GITHUB_USERNAME = 'nicksondrup'
 
 module.exports = config({
   base: "/fs-journal/",

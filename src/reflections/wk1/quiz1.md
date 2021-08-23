@@ -68,5 +68,5 @@ flex makes the elements within itself only take up the space they need.
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-margin, padding, and border.
+margin, padding, and border. 
 ```

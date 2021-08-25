@@ -13,7 +13,7 @@ a set of statements
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility, Open closed principle, Liskov substitution, Interface segregation, Dependency Inversion.
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+fruit[2], because the index starts at 0 so being in the 3rd position pineapple is at the index of 2
 ```
 **5.** With these two objects: 
 ```js

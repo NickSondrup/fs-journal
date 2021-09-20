@@ -10,7 +10,7 @@ A good time to use a sub-document is when you need a property to have properties
 
 **How do you add to a collection of sub-documents? What about editing them?**
 
-
+You can use the methods like .save() and findOneAndUpdate() to create and update sub-documents
 
 **Afternoon Challenge:**
 

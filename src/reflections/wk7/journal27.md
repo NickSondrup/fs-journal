@@ -11,3 +11,7 @@ Some benefits are that user's will be more likely to come back/recommend your ap
 **Why is the User Experience important?**
 
 User experience is important because if there aren't any user's there isn't really an application. If a tree falls in the woods and now one is there to hear it does it make a sound? 
+
+**Afternoon Challenge:**
+
+https://github.com/TalanWeeks/sprintr-checkpoint

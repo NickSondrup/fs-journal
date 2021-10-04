@@ -11,3 +11,7 @@ Some benefits are that people who haven't work in the application yet will have 
 **How important is Code documentation and why?**
 
 Code documentation is very important and can help your future self and colleagues. It's very helpful for quicker understanding of code and remembering why things were done the way they were.
+
+**Afternoon Challenge:**
+
+https://github.com/TalanWeeks/sprintr-checkpoint

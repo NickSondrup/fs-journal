@@ -13,3 +13,7 @@ Increased code quality, better knowledge of application among the team, better t
 It can be difficult for the navigator to stay engaged, some could say it "doubles costs". Both driver and navigator need to keep a constant stream of communication and that can be difficult if they don't have a good relationship
 
 
+**Afternoon Challenge:**
+
+https://github.com/TalanWeeks/sprintr-checkpoint
+

@@ -11,3 +11,7 @@ We divided the tasks up very well and were often surprised by the amount of grou
 **What would you do differently?**
 
 I think we could have planned better. We both had the approach of lets try it first and make a plan later and that slowed us down when we ran into error's that were written long before.
+
+**Afternoon Challenge:**
+
+https://github.com/TalanWeeks/sprintr-checkpoint

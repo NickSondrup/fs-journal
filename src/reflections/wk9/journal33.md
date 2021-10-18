@@ -1,4 +1,4 @@
-# Capstone Reflection #1
+# Capstone Reflection
 
 **What technologies and principles are you using in your project?**
 
